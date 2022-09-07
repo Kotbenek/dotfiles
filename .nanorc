@@ -1,0 +1,4 @@
+# Highlight trailing whitespaces
+syntax "default"
+color ,green "[[:space:]]+$"
+
