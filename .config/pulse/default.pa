@@ -1,0 +1,7 @@
+# Fix for pops when starting and stopping playback
+
+.include /etc/pulse/default.pa
+.nofail
+unload-module module-suspend-on-idle
+.fail
+
