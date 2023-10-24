@@ -4,4 +4,3 @@
 .nofail
 unload-module module-suspend-on-idle
 .fail
-

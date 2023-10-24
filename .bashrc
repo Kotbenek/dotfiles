@@ -17,4 +17,3 @@ local DEFAULT="\[\033[0m\]"
 PS1="\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}$LIGHT_GREEN\u@\h$DEFAULT:$LIGHT_BLUE\w$DEFAULT\$$LIGHT_GREEN\$(parse_git_branch) $DEFAULT"
 }
 set_prompt
-
