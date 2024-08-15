@@ -9,3 +9,4 @@ My collection of dotfiles
 | .config/pulse/default.pa | `PulseAudio` config           |
 | .gitmessage              | `git commit` message template |
 | .nanorc                  | `nano` config                 |
+| .tigrc                   | `tig` config                  |
